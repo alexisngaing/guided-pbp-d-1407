@@ -1,0 +1,4 @@
+#Wed Sep 13 01:39:50 ICT 2023
+base.0=F\:\\Kuliah\\Kuliah 5\\Pemrograman Berbasis Platform\\H2\\gd1_d_1407\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

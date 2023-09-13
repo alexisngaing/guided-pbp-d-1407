@@ -1,0 +1,15 @@
+com.example.gd1_d_1407.app-browser-1.5.0-0 C:\Users\ASUS\.gradle\caches\transforms-3\02ae28fa74a2cab2c24b0e909ffb4e49\transformed\browser-1.5.0\res
+com.example.gd1_d_1407.app-jetified-window-java-1.0.0-beta04-1 C:\Users\ASUS\.gradle\caches\transforms-3\128f7549c3f81d242aa9f589ae0024c0\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.gd1_d_1407.app-core-1.10.1-2 C:\Users\ASUS\.gradle\caches\transforms-3\149f6528609bc706e68c3bb84e942ead\transformed\core-1.10.1\res
+com.example.gd1_d_1407.app-lifecycle-runtime-2.3.1-3 C:\Users\ASUS\.gradle\caches\transforms-3\22a68573df9786d274ef2a0cffdf2064\transformed\lifecycle-runtime-2.3.1\res
+com.example.gd1_d_1407.app-jetified-annotation-experimental-1.3.0-4 C:\Users\ASUS\.gradle\caches\transforms-3\8c46f89acade100b4e78a09cb15e0852\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.gd1_d_1407.app-jetified-window-1.0.0-beta04-5 C:\Users\ASUS\.gradle\caches\transforms-3\af57bbf1db2f2efb49b62e9468110ecb\transformed\jetified-window-1.0.0-beta04\res
+com.example.gd1_d_1407.app-debug-6 F:\Kuliah\Kuliah 5\Pemrograman Berbasis Platform\H2\gd1_d_1407\android\app\src\debug\res
+com.example.gd1_d_1407.app-main-7 F:\Kuliah\Kuliah 5\Pemrograman Berbasis Platform\H2\gd1_d_1407\android\app\src\main\res
+com.example.gd1_d_1407.app-pngs-8 F:\Kuliah\Kuliah 5\Pemrograman Berbasis Platform\H2\gd1_d_1407\build\app\generated\res\pngs\debug
+com.example.gd1_d_1407.app-resValues-9 F:\Kuliah\Kuliah 5\Pemrograman Berbasis Platform\H2\gd1_d_1407\build\app\generated\res\resValues\debug
+com.example.gd1_d_1407.app-rs-10 F:\Kuliah\Kuliah 5\Pemrograman Berbasis Platform\H2\gd1_d_1407\build\app\generated\res\rs\debug
+com.example.gd1_d_1407.app-mergeDebugResources-11 F:\Kuliah\Kuliah 5\Pemrograman Berbasis Platform\H2\gd1_d_1407\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.gd1_d_1407.app-mergeDebugResources-12 F:\Kuliah\Kuliah 5\Pemrograman Berbasis Platform\H2\gd1_d_1407\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.gd1_d_1407.app-merged_res-13 F:\Kuliah\Kuliah 5\Pemrograman Berbasis Platform\H2\gd1_d_1407\build\app\intermediates\merged_res\debug
+com.example.gd1_d_1407.app-packaged_res-14 F:\Kuliah\Kuliah 5\Pemrograman Berbasis Platform\H2\gd1_d_1407\build\url_launcher_android\intermediates\packaged_res\debug
